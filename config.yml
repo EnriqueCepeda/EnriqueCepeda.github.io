@@ -22,11 +22,11 @@ params:
     Content: "This is the blog of a Software Developer based in Spain. I hope you like the content in case you want to check it out ;) (Or the future content, there is not content yet WIP LOL)"
   socialIcons:
     - name: "github"
-    - url: "https://github.com/EnriqueCepeda"
+      url: "https://github.com/EnriqueCepeda"
     - name: "email"
-    - url: "ecepedavillamayor@gmail.com"
+      url: "mailto:ecepedavillamayor@gmail.com"
     - name: "linkedin"
-    - url: "https://www.linkedin.com/in/enrique-cepeda-villamayor-23154915a/"
+      url: "https://www.linkedin.com/in/enrique-cepeda-villamayor-23154915a/"
 outputs:
   home:
     - HTML
