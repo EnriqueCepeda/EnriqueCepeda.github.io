@@ -10,6 +10,7 @@ menu:
       weight: 10
 params:
   defaultTheme: dark
+  ShowFullTextinRSS: true
   homeInfoParams:
     Title: Hi there!
     Content: "These are just the thoughts of a Software Developer based in Ciudad Real (Spain), take them with a pinch of salt :)"
