@@ -1,25 +1,18 @@
 baseURL: "https://EnriqueCepeda.github.io"
 languageCode: "en-us"
-title: "Enrique Cepeda's blog"
+title: "Enrique Cepeda"
 theme: "PaperMod"
 menu:
   main:
-    - identifier: tags
-      name: tags
-      url: /tags/
-      weight: 20
     - identifier: search
       name: search
       url: search
       weight: 10
-    - identifier: archives
-      name: archives
-      url: /archives/
-      weight: 10
 params:
+  defaultTheme: dark
   homeInfoParams:
     Title: Hi there!
-    Content: "This is the blog of a Software Developer based in Spain. I hope you like the content in case you want to check it out ;) (Or the future content, there is not content yet WIP LOL)"
+    Content: "These are just the thoughts of a Software Developer based in Ciudad Real (Spain), take them with a pinch of salt :)"
   socialIcons:
     - name: "github"
       url: "https://github.com/EnriqueCepeda"
