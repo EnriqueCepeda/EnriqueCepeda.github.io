@@ -13,7 +13,7 @@ params:
   ShowFullTextinRSS: true
   homeInfoParams:
     Title: Hi there!
-    Content: "These are just the thoughts of a Software Developer based in Ciudad Real (Spain), take them with a pinch of salt :)"
+    Content: "These are just my thoughts, take them with a pinch of salt :)"
   socialIcons:
     - name: "github"
       url: "https://github.com/EnriqueCepeda"
